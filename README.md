@@ -20,11 +20,10 @@
 
 ### 📂 ARQUIVOS_DE_LOG (Sobre Mim)
 
-- 💻 **Foco Atual:** Estudante de Informática para Internet no **SENAC Lapa Tito**.
-- ⚙️ **Interesses:** Arquitetura Back-end, APIs, Banco de Dados e Lógica de Programação.
-- 🌑 **Estética:** Brutalismo Industrial, Cyberpunk (Blame!), Soulslike e Terror Cósmico.
-- 🎸 **Hobbies:** Tocar guitarra, Rock/Metal e explorar sistemas "por baixo dos panos".
-
+- 💻 **Jornada:** Atualmente subindo de nível no **SENAC Lapa Tito**, focado em Informática para Internet e desenvolvimento de sistemas.
+- 🔥 **Diretriz:** "Bonfire Lit". Encaro cada erro no código como um boss de *Dark Souls*: estudo o padrão, aprendo com a falha e persisto até encontrar a solução lógica.
+- ⚙️ **Engenharia:** Focado em **Node.js** e **MySQL**. Gosto de construir as fundações invisíveis, seguras e eficientes que sustentam grandes aplicações (Back-end).
+- 🎧 **Playlist:** Iron Maiden, Slipknot e System of a Down. Quando o desafio técnico aumenta, o volume do Rock acompanha para manter o foco total.
 ---
 
 ### 📊 STATUS_DO_SISTEMA (GitHub Stats)
