@@ -21,8 +21,8 @@
 ### 📂 ARQUIVOS_DE_LOG (Sobre Mim)
 
 - 💻 **Jornada:** Atualmente subindo de nível no **SENAC Lapa Tito**, focado em Informática para Internet e desenvolvimento de sistemas.
-- 🔥 **Diretriz:** "Bonfire Lit". Encaro cada erro no código como um boss de *Dark Souls*: estudo o padrão, aprendo com a falha e persisto até encontrar a solução lógica.
-- ⚙️ **Engenharia:** Focado em **Node.js** e **MySQL**. Gosto de construir as fundações invisíveis, seguras e eficientes que sustentam grandes aplicações (Back-end).
+- ⚙️ **Engenharia Back-end:** Fascinado pela lógica "por baixo dos panos". Meu objetivo é dominar **Node.js** e **MySQL** para construir as fundações invisíveis, seguras e eficientes que sustentam grandes aplicações.
+- 🛡️ **Persistência Técnica:** Encaro desafios de código com foco total na resolução de problemas. Estudo o erro, analiso o padrão e persisto na depuração até encontrar a solução lógica e otimizada.
 - 🎧 **Playlist:** Iron Maiden, Slipknot e System of a Down. Quando o desafio técnico aumenta, o volume do Rock acompanha para manter o foco total.
 ---
 
