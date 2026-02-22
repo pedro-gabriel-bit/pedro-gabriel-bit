@@ -42,5 +42,5 @@
 </div>
 
 <p align="center">
-  <sub>"Para lutar contra monstros, criamos monstros." — Protocolo Jaeger</sub>
+  <sub>"A complexidade do Back-end é o que torna a simplicidade do Front-end possível."</sub>
 </p>
