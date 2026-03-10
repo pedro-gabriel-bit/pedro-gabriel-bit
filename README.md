@@ -8,6 +8,15 @@
 
 ### 🧬 IDENTIDADE_VISUAL_SISTEMA
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/pedro-gabriel-bit/pedro-gabriel-bit/main/simbolo.svg" width="280" />
+  <br>
+  <sub><i>RENDERIZANDO ESTRUTURA_DIGITAL...</i></sub>
+</p>
+
+<details>
+<summary align="center"><b>[ VERSÃO_TERMINAL_ASCII ]</b></summary>
+
 ```text
           ___/\___/\___
          /   \/   \/   \
@@ -17,6 +26,8 @@
          \    | |    /
           \___/ \___/
 ```
+
+</details>
 
 ---
 
