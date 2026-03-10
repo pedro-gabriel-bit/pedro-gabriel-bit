@@ -44,8 +44,8 @@
 ### 📊 STATUS_DO_SISTEMA (GitHub Stats)
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedro-gabriel-bit&show_icons=true&theme=matrix&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-gabriel-bit&layout=compact&langs_count=7&theme=matrix"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=pedro-gabriel-bit&show_icons=true&theme=matrix&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pedro-gabriel-bit&layout=compact&langs_count=7&theme=matrix"/>
 </p>
 
 ---
