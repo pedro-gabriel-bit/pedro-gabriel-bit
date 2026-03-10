@@ -8,8 +8,6 @@
 
 ### 🧬 IDENTIDADE_VISUAL_SISTEMA
 
-<p align="center">
-
 ```text
           ___/\___/\___
          /   \/   \/   \
@@ -19,8 +17,6 @@
          \    | |    /
           \___/ \___/
 ```
-
-</p>
 
 ---
 
