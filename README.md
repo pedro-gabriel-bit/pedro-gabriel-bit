@@ -37,19 +37,23 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </div>
+
+### ⭐ PROJETOS_EM_DESTAQUE (Main Repositories)
+
+- 🧮 Calculadora: Prática de manipulação de DOM, eventos e lógica matemática com JavaScript.
+- 🧪 Funções / Callback / HOF: Repositório focado em lógica avançada, arrays e funções de alta ordem.
+- 🧩 Projeto-JS: Integração prática de tecnologias web para criação de interfaces dinâmicas.
 
 ---
 
 ### 📂 ARQUIVOS_DE_LOG (Sobre Mim)
 
-- 💻 **Jornada:** Atualmente subindo de nível no **SENAC Lapa Tito**, focado em Informática para Internet e desenvolvimento de sistemas.
-- ⚙️ **Engenharia Back-end:** Fascinado pela lógica "por baixo dos panos". Meu objetivo é dominar **Node.js** e **MySQL** para construir as fundações invisíveis, seguras e eficientes que sustentam grandes aplicações.
-- 🛡️ **Persistência Técnica:** Encaro desafios de código com foco total na resolução de problemas. Estudo o erro, analiso o padrão e persisto na depuração até encontrar a solução lógica e otimizada.
-- 🎧 **Playlist:** Iron Maiden, Slipknot e System of a Down. Quando o desafio técnico aumenta, o volume do Rock acompanha para manter o foco total.
-
+- 💻 **FORMAÇÃO_SISTÊMICA:** Desenvolvedor em ascensão pelo **SENAC Lapa Tito**, com foco em arquitetura de sistemas e soluções escaláveis para a web.
+- ⚙️ **ENGENHARIA_BACKEND:** Movido pela curiosidade técnica de compreender o que ocorre "sob o capô". Dedicado ao domínio de **Node.js** e **MySQL** para a construção de infraestruturas seguras e de alta performance.
+- 🛡️ **RESOLUÇÃO_DE_CONFLITOS:** Encaro bugs e falhas de sistema como desafios lógicos. Minha abordagem baseia-se em análise de padrões e depuração persistente até a entrega de um código otimizado.
+- 🎧 **FREQUÊNCIA_DE_FOCO:** Iron Maiden, Slipknot e System of a Down. Acredito que a precisão técnica exige a mesma energia e disciplina de uma composição de Rock progressivo.
+  
 ---
 
 ### 📊 STATUS_DO_SISTEMA (GitHub Stats)
@@ -65,10 +69,14 @@
 ### 🔗 CONEXÕES_EXTERNAS
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/pedro-gabriel-54b277398?" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:pedrogabriel7000@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/pedro-gabriel-54b277398?" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:pedrogabriel7000@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
 </div>
 
 <p align="center">
-  <sub>"A complexidade do Back-end é o que torna a simplicidade do Front-end possível."</sub>
+  <sub>"O Back-end é o alicerce invisível que sustenta toda a experiência visível."</sub>
 </p>
