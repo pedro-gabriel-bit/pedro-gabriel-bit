@@ -10,26 +10,29 @@
 
 ### 🖥️ SYSTEM_LOG
 
+```text
 [BOOT] Inicializando núcleo lunar
-[OK] Conexão com servidor estabelecida
+[OK]   Conexão com servidor estabelecida
 [INFO] Carregando módulos JavaScript
 [INFO] Protocolos back-end ativos
 [WARN] Entidade detectada
-[OK] Sistema estável
+[OK]   Sistema estável
 
 ---
 
+```markdown
 ### 🎯 MISSÃO_ATUAL
 
-> Consolidar lógica de APIs
-> Desenvolver projetos reais
-> Evoluir para Node.js
-> Aprender banco de dados (MySQL)
+- ⚙️ Consolidar lógica de APIs  
+- 🧪 Desenvolver projetos reais  
+- 🌑 Evoluir para Node.js  
+- 📂 Aprender banco de dados (MySQL)
 
 ---
 
 ### 📡 STATUS_DO_NÚCLEO
 
+```text
 ╔════════════════════════════╗
 ║ STATUS : ONLINE            ║
 ║ FOCO   : BACK-END          ║
@@ -37,21 +40,21 @@
 ║ ERROS  : EM ANÁLISE        ║
 ╚════════════════════════════╝
 
+---
+
+```markdown
 ### 🛠️ PROTOCOLOS_TECNICOS
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00FF41" />
-<img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=00FF41" />
-<img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=00FF41" />
-<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00FF41" />
-
-</div>
-
----
+<p center>
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00FF41" />
+</p>
 
 ### ⭐ PROJETOS
 
+```text
 [01] TITAN_FIT
 [02] CALCULADORA
 [03] FUNÇÕES_JS
