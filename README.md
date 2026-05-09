@@ -10,10 +10,10 @@
 - 🌱 **Atualmente:** Mergulhando em **Node.js** e **MySQL** para consolidar o desenvolvimento de servidores.
 - 🤓 **Foco:** Lógica de programação pura, integração de banco de dados e performance.
 - 🎨 **Design:** Habilidade com **Figma** para prototipação e entendimento de arquitetura de informação.
-- 🎧 **Hobbies:** Rock/Metal (Iron Maiden, Slipknot), filmes de terror e horror cósmico.
+- 🎧 **Hobbies:** Rock/Metal, horror cósmico e universos sombrios (filmes, games e anime).
 - ⚡ **Fun Fact:** Tenho uma curiosidade insaciável por entender como as coisas funcionam "por baixo do capô".
 
-## 🛠️ My Tech Stack
+## ⚙️ Technologies & Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />&nbsp;&nbsp;
@@ -29,8 +29,8 @@
 ## 📊 My Github Stats
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=pedro-gabriel-bit&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pedro-gabriel-bit&layout=compact&theme=dracula"/>
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=pedro-gabriel-bit&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pedro-gabriel-bit&layout=compact&theme=dracula"/>
 </p>
 
 ## 🔗 Connect with me
